@@ -34,8 +34,7 @@ public void printSort() {
        }if (is_sorted) {
            printSort();
            break;
-
-         }
-    }return array;
+            }
+        }return array;
     }
 }
